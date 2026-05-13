@@ -1,0 +1,6 @@
+dash
+dash-auth
+pandas
+plotly
+numpy
+gunicorn
